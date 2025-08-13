@@ -1,0 +1,2 @@
+# RAG_QA_Sentiment_Summarization_CS6510NLP_Summer25
+Final NLP Project for Summer2025 Northeastern University
