@@ -1,0 +1,17 @@
+torch>=2.3.0
+transformers>=4.41.0
+sentence-transformers>=3.0.0
+datasets>=2.20.0
+faiss-cpu==1.8.0.post1
+PyMuPDF>=1.24.0
+tqdm
+scikit-learn
+rouge-score
+numpy
+pandas
+streamlit
+plotly
+kaggle
+transformers
+PyMuPDF
+sentencepiece
